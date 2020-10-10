@@ -28,14 +28,13 @@ sections:
     features:
       - title: Rich Bot platform support
         text: Support marketing leading chats products, like Microsoft Teams, Skype, Slack, Whatsapp
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
+        icon: fa-gem
       - title: Handle the Complexity
         text:  a batch of SDKs to handle some of the underlying issues of the bot, such as message locks, session lifecycle management, service registration and scheduling to help developers only pay attention to the business logic itself
         icon: fa-laptop-code
       - title: Highly Available Architecture
         text: Highly Available and elastic expansion architecture can support 100K+ users to meet word-class firm's business demands 
-        icon: fa-paper-plane
+        icon: fa-newspaper
       - title: Advanced Features for Enterprise
         text:  We also offer Advanced features to accelerate the building enterprise solution like workflow engine, scheduler, elastic API gatway for 3rd party integration
         icon: fa-paper-plane
