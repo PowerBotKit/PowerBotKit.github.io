@@ -96,7 +96,7 @@ sections:
         text: Bot Master
         url: '#'
       - title: Guobing Ming
-        email: guobing.ming@gmail.com
+        email: mingguobin@live.com
         text: A gopher
         url: '#'
 
@@ -124,8 +124,6 @@ sections:
     text: >-
       Any feadback? We are listening, Give us a message and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
       url: mailto:bao1018@gmail.com
