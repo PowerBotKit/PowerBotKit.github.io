@@ -92,7 +92,7 @@ sections:
         text: Passion to build stuff
         url: '#'
       - title: JiQing Liu
-        email: jiqing.liu@gmail.com
+        email: 947375565@qq.com
         text: Bot Master
         url: '#'
       - title: Guobing Ming
@@ -110,7 +110,7 @@ sections:
         time:  2020 Aug
         title: The Idea
         text: >-
-          After we spent 2 months to build a scalable Bot Solution for a top consulting firm by using MS bot-build.js, we saw lots of challenges there to develop a enterprise ready bot application with exising tools in the market
+          After we spent 2 months to build a scalable Bot Solution for a top consulting firm by using MS bot-build.js, we saw lots of challenges there，then we came up with a idea to build a bot dev framework to faciliate the bot solutions
       - image: assets/img/portfolio/thumbnails/2.jpg
         time: 2020 Sept
         title: Write the 1st line of code
